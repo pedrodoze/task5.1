@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Nova York",
+      "photo": "fig_nyc.png", 
+      "description": "Nova York, muitas vezes chamada de \"A Grande Maçã\", é uma das cidades mais icônicas e diversificadas dos Estados Unidos e do mundo. Localizada na costa leste, é conhecida por sua arquitetura deslumbrante, horizonte impressionante, cultura vibrante e uma cena gastronômica incomparável. A cidade abriga alguns dos marcos mais famosos do mundo, como a Estátua da Liberdade, o Central Park e a Times Square. Nova York é um centro global de finanças, moda, arte, entretenimento e tecnologia, e é uma verdadeira metrópole que nunca dorme."
+    },
+    {
+      "id": 2,
+      "name": "Los Angeles",
+      "photo": "fig_la.png",
+      "description": "Los Angeles, frequentemente chamada de \"LA\", é uma cidade ensolarada localizada na costa oeste dos Estados Unidos, na Califórnia. É conhecida por suas praias deslumbrantes, clima ameno, indústria cinematográfica de Hollywood e estilo de vida descontraído. LA é o lar de uma rica cena cultural, com museus de classe mundial, teatros e galerias de arte. Além disso, a cidade é conhecida por sua diversidade étnica e cultural, resultando em uma culinária internacionalmente influente. Com atrações como a Calçada da Fama de Hollywood, o Universal Studios e belos parques, Los Angeles oferece uma ampla variedade de atividades para seus residentes e visitantes."
+    }
+  ]
+  
